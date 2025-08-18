@@ -1,8 +1,9 @@
 
 # 🚖 Uber Data Analysis Dashboard
+<img width="1329" height="747" alt="Screenshot (1009)" src="https://github.com/user-attachments/assets/3ee4f133-0c10-4662-a23f-8d95503a12a8" />
 
 This repository contains an **interactive Power BI dashboard** built using Uber ride data, along with extracted **Uber vehicle icons** for visualization and documentation.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6a1da67f-cca6-4439-be09-458f9aefb8c4" />
+
 
 ## 📊 Project Overview
 
@@ -59,16 +60,24 @@ These icons can be reused for dashboards, reports, or UI mockups.
 3. Explore the dashboard and interact with the visuals
 4. Use the icons in `icons/` for custom visualizations or documentation
 
-## 📌 Next Steps
+### Contributing
+We welcome contributions to improve the project or add new features. To contribute:
 
-* Add SQL/Python preprocessing scripts (if used)
-* Automate data refresh for live dashboards
-* Expand analysis to include **Uber Eats & Courier services**
+1.Fork the repository.
 
-## 📜 License
+2.Create a new branch for your changes.
 
-This project is for **educational and portfolio purposes only**.
-Uber branding and logos are the property of **Uber Technologies Inc.**
+3.Submit a pull request with a detailed description of your updates.
+### License
+This project is licensed under the MIT License. Feel free to use and adapt it to your needs.
+
+### Stay Updated 
+For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media :
+
+- **Instagram**: [Follow me for daily tips and updates](https://www.instagram.com/_.ellieee__/)
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/seema-sanga-79a23316b/)
+
+Thank you for your support, and I look forward to connecting with you!+
 
 
 
