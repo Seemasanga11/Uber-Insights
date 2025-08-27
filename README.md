@@ -1,6 +1,8 @@
 
 # 🚖 Uber Data Analysis Dashboard
-<img width="1329" height="747" alt="Screenshot (1009)" src="https://github.com/user-attachments/assets/3ee4f133-0c10-4662-a23f-8d95503a12a8" />
+<img width="1338" height="799" alt="Screenshot (1106)" src="https://github.com/user-attachments/assets/c8035b1c-eeb8-41f4-9ba3-58e4bdefc4b8" />
+
+
 
 This repository contains an **interactive Power BI dashboard** built using Uber ride data, along with extracted **Uber vehicle icons** for visualization and documentation.
 
